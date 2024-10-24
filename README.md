@@ -1,4 +1,4 @@
-### 🚀 Hello, I'm Kevin Simões!
+# 🚀 Hello, I'm Kevin Simões!
 
 I'm Brazilian and I'm taking a computer technical course at Eniac! Here you will find a collection of exciting projects that reflect my passion for programming and development. 💻✨
 
