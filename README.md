@@ -29,7 +29,7 @@ I am learning the following languages:
 I hope you enjoy what you find here! 🚀
 
 <style>
-  img {
+  a {
     margin: 10px;
   }
 </style>
